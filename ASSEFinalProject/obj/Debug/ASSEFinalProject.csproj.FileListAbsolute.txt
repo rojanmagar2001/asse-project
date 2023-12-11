@@ -1,0 +1,10 @@
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.csproj.AssemblyReference.cache
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.Form1.resources
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.Properties.Resources.resources
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.csproj.GenerateResource.cache
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\bin\Debug\ASSEFinalProject.exe.config
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\bin\Debug\ASSEFinalProject.exe
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\bin\Debug\ASSEFinalProject.pdb
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.exe
+C:\Users\rozen\source\repos\ASSEFinalProject\ASSEFinalProject\obj\Debug\ASSEFinalProject.pdb
